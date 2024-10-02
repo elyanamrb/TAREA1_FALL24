@@ -1,0 +1,207 @@
+"personName","rank","finalWorth","age","country","industries","selfMade","gdp_country","gross_tertiary_education_enrollment","tax_revenue_country","total_tax_rate_country","population_country","female","Self.Made.Score","Philanthropy.Score","Marital.Status","Bachelor","Master","Doctorate","Drop.Out"
+"Bernard Arnault & family",1,211000,74,"France","Fashion & Retail",0,2715.518274227,65.6,24.2,60.7,67.059887,0,6,1,"Married",1,0,0,0
+"Elon Musk",2,180000,51,"United States","Automotive",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Single",1,0,0,0
+"Jeff Bezos",3,114000,59,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,2,"Engaged",1,0,0,0
+"Larry Ellison",4,107000,78,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,9,1,"In Relationship",0,0,0,1
+"Warren Buffett",5,106000,92,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,5,"Widowed, Remarried",1,1,0,0
+"Bill Gates",6,104000,67,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,5,"Divorced",0,0,0,1
+"Michael Bloomberg",7,94500,81,"United States","Media & Entertainment",1,21427.7,88.2,9.6,36.6,328.239523,0,8,4,"In Relationship",1,1,0,0
+"Carlos Slim Helu & family",8,93000,83,"Mexico","Telecom",1,1258.286717125,40.2,13.1,55.1,126.014024,0,6,1,"Widowed",1,0,0,0
+"Mukesh Ambani",9,83400,65,"India","Diversified",0,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",1,0,0,1
+"Steve Ballmer",10,80700,67,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,6,2,"Married",1,0,0,1
+"Francoise Bettencourt Meyers & family",11,80500,69,"France","Fashion & Retail",0,2715.518274227,65.6,24.2,60.7,67.059887,1,6,1,"Married",0,0,0,0
+"Larry Page",12,79200,50,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Married",1,1,0,0
+"Amancio Ortega",13,77300,87,"Spain","Fashion & Retail",1,1394.116310769,88.9,14.2,47,47.076781,0,6,1,"Married",0,0,0,0
+"Sergey Brin",14,76000,49,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,9,2,"Separated",1,1,0,0
+"Zhong Shanshan",15,68000,68,"China","Food & Beverage",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,0,0,0
+"Mark Zuckerberg",16,64400,38,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",0,0,0,1
+"Julia Koch & family",17,59000,60,"United States","Diversified",0,21427.7,88.2,9.6,36.6,328.239523,1,1,2,"Widowed",1,0,0,0
+"Jim Walton",19,58800,74,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,0,2,1,"Married",1,0,0,0
+"Alice Walton",21,56700,73,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,1,1,2,"Divorced",1,0,0,0
+"David Thomson & family",22,54400,65,"Canada","Media & Entertainment",0,1736.42562952,68.9,12.8,24.5,36.991981,0,6,1,"Divorced",0,1,0,0
+"Michael Dell",23,50100,58,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,2,"Married",0,0,0,1
+"Gautam Adani",24,47200,60,"India","Diversified",1,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",0,0,0,0
+"Phil Knight & family",25,45100,85,"United States","Fashion & Retail",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",1,1,0,0
+"Zhang Yiming",26,45000,39,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,0,0,0
+"Dieter Schwarz",27,42900,83,"Germany","Fashion & Retail",0,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",0,0,0,0
+"François Pinault & family",28,40100,86,"France","Fashion & Retail",1,2715.518274227,65.6,24.2,60.7,67.059887,0,6,1,"Married",0,0,0,1
+"Klaus-Michael Kuehne",29,39100,85,"Switzerland","Logistics",0,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Married",0,0,0,0
+"Giovanni Ferrero",30,38900,58,"Belgium","Food & Beverage",0,529.606710418,79.7,24,55.4,11.484055,0,4,1,"Married",0,0,0,0
+"Jacqueline Mars",31,38300,83,"United States","Food & Beverage",0,21427.7,88.2,9.6,36.6,328.239523,1,2,1,"Divorced",1,0,0,0
+"John Mars",31,38300,87,"United States","Food & Beverage",0,21427.7,88.2,9.6,36.6,328.239523,0,2,1,"Married",1,0,0,0
+"Ma Huateng",34,35300,51,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,0,0,0
+"Miriam Adelson & family",35,35000,77,"United States","Gambling & Casinos",0,21427.7,88.2,9.6,36.6,328.239523,1,2,2,"Widowed",1,0,0,0
+"Ken Griffin",35,35000,54,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Divorced",1,0,0,0
+"Mark Mateschitz",37,34700,30,"Austria","Food & Beverage",0,446.314739528,85.1,25.4,51.4,8.877067,0,6,1,"Single",0,0,0,0
+"Robin Zeng",38,33400,54,"China","Automotive",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,0,1,0
+"Tadashi Yanai & family",39,32600,74,"Japan","Fashion & Retail",1,5081.76954238,63.2,11.9,46.7,126.226568,0,6,1,"Married",1,0,0,0
+"Len Blavatnik",40,32100,65,"United Kingdom","Diversified",1,2827.113184696,60,25.5,30.6,66.834405,0,9,2,"Married",1,1,0,0
+"Alain Wertheimer",41,31600,74,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,0,6,1,"Married",0,0,0,0
+"Gerard Wertheimer",41,31600,72,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,0,6,1,"Married",0,0,0,0
+"Gianluigi Aponte",43,31200,82,"Switzerland","Logistics",1,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Married",0,0,0,0
+"Rafaela Aponte-Diamant",43,31200,78,"Switzerland","Logistics",1,703.08243536,59.6,10.1,28.8,8.574832,1,6,1,"Married",0,0,0,0
+"Colin Zheng Huang",45,30200,43,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,1,0,0
+"Reinhold Wuerth & family",46,29700,87,"Germany","Manufacturing",1,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",0,0,0,0
+"Jeff Yass",48,28500,64,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Married",1,0,0,0
+"Jim Simons",49,28100,84,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,4,"Married",1,0,1,0
+"Stephen Schwarzman",50,27800,76,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,2,"Married",1,1,0,0
+"Susanne Klatten",51,27400,60,"Germany","Automotive",0,3845.630030824,70.2,11.5,48.8,83.132799,1,6,1,"Married",0,1,0,0
+"Gina Rinehart",52,27000,69,"Australia","Metals & Mining",0,1392.680589329,113.1,23,47.4,25.766605,1,6,1,"Widowed",0,0,0,0
+"William Ding",53,26700,51,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,0,0,0
+"Germán Larrea Mota Velasco & family",54,26600,69,"Mexico","Metals & Mining",0,1258.286717125,40.2,13.1,55.1,126.014024,0,6,1,"Married",0,0,0,0
+"Shiv Nadar",55,25600,77,"India","Technology",1,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",1,0,0,0
+"Low Tuck Kwong",56,25500,74,"Indonesia","Energy",1,1119.190780753,36.3,10.2,30.1,270.203917,0,6,1,"Married",0,0,0,0
+"Thomas Peterffy",57,25300,78,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,10,1,"Divorced",0,0,0,1
+"Andrey Melnichenko & family",58,25200,51,"United Arab Emirates","Metals & Mining",1,421.142267938,36.8,0.1,15.9,9.770529,0,6,1,"Married",0,1,0,0
+"Stefan Quandt",59,24600,56,"Germany","Automotive",0,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",0,0,0,0
+"MacKenzie Scott",60,24400,52,"United States","Technology",0,21427.7,88.2,9.6,36.6,328.239523,1,3,5,"Divorced",1,0,0,0
+"R. Budi Hartono",61,24200,82,"Indonesia","Finance & Investments",0,1119.190780753,36.3,10.2,30.1,270.203917,0,6,1,"Married",0,0,0,0
+"Vladimir Potanin",62,23700,62,"Russia","Metals & Mining",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Jack Ma",63,23500,58,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,0,0,0
+"He Xiangjian & family",64,23400,80,"China","Manufacturing",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Iris Fontbona & family",65,23100,80,"Chile","Metals & Mining",0,282.318159745,88.5,18.2,34,18.952038,1,6,1,"Widowed",0,0,0,0
+"Michael Hartono",65,23100,83,"Indonesia","Manufacturing",0,1119.190780753,36.3,10.2,30.1,270.203917,0,6,1,"Married",0,0,0,0
+"James Ratcliffe",67,22900,70,"United Kingdom","Manufacturing",1,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Married",0,0,0,0
+"Cyrus Poonawalla",68,22600,81,"India","Healthcare",0,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Widowed",1,0,1,0
+"Masayoshi Son",69,22400,65,"Japan","Telecom",1,5081.76954238,63.2,11.9,46.7,126.226568,0,6,1,"Married",1,0,0,0
+"Vladimir Lisin",70,22100,66,"Russia","Metals & Mining",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",1,0,1,0
+"Emmanuel Besnier",71,22000,52,"France","Food & Beverage",0,2715.518274227,65.6,24.2,60.7,67.059887,0,6,1,"Unknown",0,0,0,0
+"Abigail Johnson",72,21600,61,"United States","Finance & Investments",0,21427.7,88.2,9.6,36.6,328.239523,1,4,1,"Married",1,1,0,0
+"Leonid Mikhelson & family",72,21600,67,"Russia","Energy",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Lukas Walton",74,21200,36,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,0,1,1,"Married",1,0,0,0
+"Wang Wei",74,21200,52,"China","Service",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,0,0,0
+"Jensen Huang",76,21100,60,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Married",1,1,0,0
+"Leonard Lauder",77,21000,90,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,0,5,3,"Widowed, Remarried",1,0,0,0
+"Takemitsu Takizaki",77,21000,77,"Japan","Manufacturing",1,5081.76954238,63.2,11.9,46.7,126.226568,0,6,1,"Married",0,0,0,0
+"Alexey Mordashov & family",79,20900,57,"Russia","Metals & Mining",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Vagit Alekperov",80,20500,72,"Russia","Energy",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Thomas Frist, Jr. & family",81,20200,84,"United States","Healthcare",1,21427.7,88.2,9.6,36.6,328.239523,0,7,1,"Married",1,0,0,0
+"Andrew Forrest",82,19600,61,"Australia","Metals & Mining",1,1392.680589329,113.1,23,47.4,25.766605,0,6,1,"Separated",1,0,0,0
+"Ray Dalio",83,19100,73,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",1,1,0,0
+"Wang Wenyin",84,19000,55,"China","Metals & Mining",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,0,0,0
+"Qin Yinglin",86,18900,57,"China","Food & Beverage",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Wang Chuanfu",88,18700,57,"China","Automotive",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,1,0,0
+"Harold Hamm & family",89,18500,77,"United States","Energy",1,21427.7,88.2,9.6,36.6,328.239523,0,10,1,"Divorced",0,0,0,0
+"David Tepper",89,18500,65,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,2,"Married",1,1,0,0
+"Gennady Timchenko",89,18500,70,"Russia","Energy",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Daniel Gilbert",92,18000,61,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Married",1,0,0,0
+"Lakshmi Mittal",93,17700,72,"United Kingdom","Metals & Mining",0,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Married",1,0,0,0
+"Steve Cohen",94,17500,66,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",1,0,0,0
+"Carl Icahn",94,17500,87,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,9,2,"Married",1,0,0,1
+"Savitri Jindal & family",94,17500,73,"India","Metals & Mining",0,2611,28.1,11.2,49.7,1366.417754,1,6,1,"Widowed",0,0,0,0
+"Donald Bren",97,17400,90,"United States","Real Estate",1,21427.7,88.2,9.6,36.6,328.239523,0,8,4,"Married",1,0,0,0
+"John Menard, Jr.",97,17400,83,"United States","Fashion & Retail",1,21427.7,88.2,9.6,36.6,328.239523,0,9,1,"Married",1,0,0,0
+"Rupert Murdoch & family",99,17100,92,"United States","Media & Entertainment",0,21427.7,88.2,9.6,36.6,328.239523,0,5,1,"Married",1,1,0,0
+"Vicky Safra & family",100,16700,70,"Switzerland","Finance & Investments",0,703.08243536,59.6,10.1,28.8,8.574832,1,6,1,"Widowed",0,0,0,0
+"Theo Albrecht, Jr. & family",101,16500,72,"Germany","Fashion & Retail",0,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Unknown",0,0,0,0
+"Renata Kellnerova & family",101,16500,55,"Czech Republic","Finance & Investments",0,246.489245495,64.1,14.9,46.1,10.669709,1,6,1,"Widowed",0,0,0,0
+"Li Xiting",103,16300,72,"China","Healthcare",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,0,0,0
+"Stefan Persson",104,16200,75,"Sweden","Fashion & Retail",0,530.832908738,67,27.9,49.1,10.285453,0,6,1,"Married",0,0,0,0
+"Eric Schmidt",104,16200,67,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,6,2,"Married",1,1,1,0
+"Michael Platt",106,16000,55,"Switzerland","Finance & Investments",1,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Unknown",1,0,0,0
+"Pang Kang",107,15900,67,"China","Food & Beverage",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,0,0,0
+"Jorge Paulo Lemann & family",108,15800,83,"Switzerland","Food & Beverage",1,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Married",1,0,0,0
+"Dilip Shanghvi",112,15600,67,"India","Healthcare",1,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",1,0,0,0
+"Robert Pera",113,15500,45,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Single",1,1,0,0
+"Radhakishan Damani",114,15300,68,"India","Fashion & Retail",1,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",0,0,0,0
+"Huang Shilin",115,15200,56,"China","Automotive",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,0,0,0
+"Dhanin Chearavanont",116,14900,83,"Thailand","Diversified",0,543.649976166,49.3,14.9,29.5,69.625582,0,6,1,"Widowed",0,0,0,0
+"David Green & family",116,14900,81,"United States","Fashion & Retail",1,21427.7,88.2,9.6,36.6,328.239523,0,10,2,"Married",0,0,0,0
+"Charoen Sirivadhanabhakdi",118,14800,78,"Thailand","Food & Beverage",1,543.649976166,49.3,14.9,29.5,69.625582,0,6,1,"Widowed",0,0,0,0
+"Charlene de Carvalho-Heineken & family",119,14700,68,"United Kingdom","Food & Beverage",0,2827.113184696,60,25.5,30.6,66.834405,1,6,1,"Married",1,0,0,0
+"Xu Hang",120,14600,60,"China","Healthcare",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,1,0,0
+"Wei Jianjun & family",121,14500,59,"China","Automotive",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,0,0,0
+"Alisher Usmanov",122,14400,69,"Uzbekistan","Metals & Mining",1,57.92128644,10.1,14.8,31.6,33.58065,0,6,1,"Divorced",0,1,0,0
+"Goh Cheng Liang",123,14300,95,"Singapore","Manufacturing",1,372.062527489,84.8,13.1,21,5.703569,0,6,1,"Widowed",0,0,0,0
+"Kumar Birla",124,14200,55,"India","Diversified",0,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",1,1,0,0
+"Aliko Dangote",124,14200,65,"Nigeria","Manufacturing",1,448.120428859,10.2,1.5,34.8,200.963599,0,6,1,"Divorced",1,0,0,0
+"Idan Ofer",127,14000,67,"United Kingdom","Diversified",0,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Married",0,0,0,0
+"Chen Bang",128,13900,57,"China","Healthcare",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,1,0,0
+"John Fredriksen",130,13700,78,"United Kingdom","Logistics",1,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Widowed",0,0,0,0
+"Diane Hendricks",130,13700,76,"United States","Construction & Engineering",1,21427.7,88.2,9.6,36.6,328.239523,1,9,1,"Widowed",0,0,0,0
+"Jan Koum",130,13700,47,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,10,2,"Single",0,0,0,1
+"Jerry Jones",133,13300,80,"United States","Sports",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Married",1,1,0,0
+"George Kaiser",133,13300,80,"United States","Energy",0,21427.7,88.2,9.6,36.6,328.239523,0,5,4,"Married",1,1,0,0
+"Lu Xiangyang",136,13200,60,"China","Automotive",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Harry Triguboff",137,13100,90,"Australia","Real Estate",1,1392.680589329,113.1,23,47.4,25.766605,0,6,1,"Married",1,0,0,0
+"Uday Kotak",138,12900,64,"India","Finance & Investments",1,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",1,1,0,0
+"Stanley Kroenke",138,12900,75,"United States","Sports",1,21427.7,88.2,9.6,36.6,328.239523,0,6,1,"Married",1,1,0,0
+"Mikhail Fridman",140,12600,58,"United Kingdom","Energy",1,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Divorced",0,1,0,0
+"Sarath Ratanavadi",141,12300,57,"Thailand","Energy",1,543.649976166,49.3,14.9,29.5,69.625582,0,6,1,"Married",1,1,0,0
+"Dang Yanbao",142,12200,50,"China","Metals & Mining",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,1,0,0
+"Jiang Rensheng & family",142,12200,69,"China","Healthcare",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Shahid Khan",144,12100,72,"United States","Automotive",1,21427.7,88.2,9.6,36.6,328.239523,0,10,1,"Married",1,0,0,0
+"Laurene Powell Jobs & family",145,12000,59,"United States","Technology",0,21427.7,88.2,9.6,36.6,328.239523,1,2,1,"Widowed",1,1,0,0
+"Stephen Ross",147,11600,82,"United States","Real Estate",1,21427.7,88.2,9.6,36.6,328.239523,0,8,2,"Married",1,1,0,0
+"Pavel Durov",148,11500,38,"United Arab Emirates","Technology",1,421.142267938,36.8,0.1,15.9,9.770529,0,6,1,"Single",0,1,0,0
+"Andreas Struengmann & family",148,11500,73,"Germany","Healthcare",1,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",0,0,0,0
+"Thomas Struengmann & family",148,11500,73,"Germany","Healthcare",1,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",0,1,0,0
+"Liu Hanyuan",151,11400,59,"China","Food & Beverage",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,0,0,0
+"Michael Rubin",151,11400,50,"United States","Fashion & Retail",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Divorced",0,0,0,1
+"Israel Englander",153,11300,74,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,9,1,"Married",1,0,0,0
+"Viatcheslav Kantor",153,11300,69,"Israel","Manufacturing",1,395.098666122,63.4,23.1,25.3,9.0533,0,6,1,"Married",0,0,0,0
+"Anthony Pratt",153,11300,62,"Australia","Manufacturing",0,1392.680589329,113.1,23,47.4,25.766605,0,6,1,"Unknown",1,0,0,0
+"Mikhail Prokhorov",153,11300,57,"Switzerland","Finance & Investments",1,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Single",0,1,0,0
+"Giorgio Armani",157,11100,88,"Italy","Fashion & Retail",1,2001.244392042,61.9,24.3,59.1,60.297396,0,6,1,"Single",0,0,0,1
+"Johann Rupert & family",157,11100,72,"South Africa","Fashion & Retail",0,351.431649241,22.4,27.5,29.2,58.55827,0,6,1,"Married",0,0,0,0
+"Zhang Zhidong",159,11000,51,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",1,1,0,0
+"Philip Anschutz",161,10900,83,"United States","Finance & Investments",0,21427.7,88.2,9.6,36.6,328.239523,0,5,3,"Married",1,0,0,0
+"Judy Love & family",161,10900,85,"United States","Fashion & Retail",1,21427.7,88.2,9.6,36.6,328.239523,1,9,1,"Widowed",1,0,0,1
+"Ricardo Salinas Pliego & family",161,10900,67,"Mexico","Fashion & Retail",0,1258.286717125,40.2,13.1,55.1,126.014024,0,6,1,"Married",1,1,0,0
+"Donald Newhouse",164,10700,93,"United States","Media & Entertainment",0,21427.7,88.2,9.6,36.6,328.239523,0,5,2,"Widowed",0,0,0,1
+"Robert Kraft",165,10600,81,"United States","Sports",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Widowed, Remarried",1,1,0,0
+"Marcel Herrmann Telles",165,10600,73,"Brazil","Food & Beverage",1,1839.758040766,51.3,14.2,65.1,212.559417,0,6,1,"Married",1,0,0,0
+"Suleiman Kerimov & family",167,10500,57,"Russia","Finance & Investments",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Changpeng Zhao",167,10500,45,"United Arab Emirates","Finance & Investments",1,421.142267938,36.8,0.1,15.9,9.770529,0,6,1,"Unknown",0,0,0,0
+"Andrew Beal",170,10300,70,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Divorced",0,0,0,1
+"Mike Cannon-Brookes",171,10200,43,"Australia","Technology",1,1392.680589329,113.1,23,47.4,25.766605,0,6,1,"Married",1,0,0,0
+"Carl Cook",171,10200,60,"United States","Healthcare",0,21427.7,88.2,9.6,36.6,328.239523,0,3,1,"Married",1,1,0,0
+"David Duffield",171,10200,82,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",1,1,0,0
+"Jeffery Hildebrand",171,10200,64,"United States","Energy",1,21427.7,88.2,9.6,36.6,328.239523,0,8,2,"Married",1,1,0,0
+"Viktor Rashnikov",171,10200,74,"Russia","Manufacturing",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Eduardo Saverin",171,10200,41,"Singapore","Technology",1,372.062527489,84.8,13.1,21,5.703569,0,6,1,"Married",1,0,0,0
+"Georg Schaeffler",171,10200,58,"Germany","Automotive",0,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Divorced",0,0,0,0
+"Christy Walton",171,10200,74,"United States","Fashion & Retail",0,21427.7,88.2,9.6,36.6,328.239523,1,1,1,"Widowed",0,0,0,0
+"Scott Farquhar",179,10100,43,"Australia","Technology",1,1392.680589329,113.1,23,47.4,25.766605,0,6,1,"Married",1,0,0,0
+"Quek Leng Chan",179,10100,81,"Malaysia","Diversified",0,364.701517788,45.1,12,38.7,32.447385,0,6,1,"Married",0,0,0,0
+"Wu Yajun",179,10100,59,"China","Real Estate",1,19910,50.6,9.4,59.2,1397.715,1,6,1,"Divorced",1,0,0,0
+"Autry Stephens",182,10000,85,"United States","Energy",1,21427.7,88.2,9.6,36.6,328.239523,0,9,1,"Married",0,1,0,0
+"Liu Yongxing",183,9900,74,"China","Service",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Vinod Adani",184,9800,74,"United Arab Emirates","Diversified",1,421.142267938,36.8,0.1,15.9,9.770529,0,6,1,"Married",0,0,0,0
+"Nicolas Puech",184,9800,80,"Switzerland","Fashion & Retail",0,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Unknown",0,0,0,0
+"Jacques Saadé, Jr.",184,9800,51,"France","Logistics",0,2715.518274227,65.6,24.2,60.7,67.059887,0,6,1,"Unknown",0,0,0,0
+"Rodolphe Saadé",184,9800,53,"France","Logistics",0,2715.518274227,65.6,24.2,60.7,67.059887,0,6,1,"Unknown",1,0,0,0
+"Tanya Saadé Zeenny",184,9800,55,"France","Logistics",0,2715.518274227,65.6,24.2,60.7,67.059887,1,6,1,"Married",0,0,0,0
+"Melker Schorling & family",184,9800,75,"Sweden","Finance & Investments",1,530.832908738,67,27.9,49.1,10.285453,0,6,1,"Married",0,1,0,0
+"Andrei Guriev & family",190,9700,63,"Russia","Manufacturing",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",1,1,0,0
+"Michael Kim",190,9700,59,"South Korea","Finance & Investments",1,2029,94.3,15.6,33.2,51.709098,0,7,1,"Married",1,1,0,0
+"Lei Jun",190,9700,53,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,0,0,0
+"Friedhelm Loh",190,9700,76,"Germany","Manufacturing",0,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",0,0,0,0
+"Sun Piaoyang",190,9700,64,"China","Healthcare",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",1,0,1,0
+"Rick Cohen & family",195,9600,70,"United States","Technology",0,21427.7,88.2,9.6,36.6,328.239523,0,5,1,"Married",0,0,0,0
+"Jin Baofang",195,9600,70,"China","Energy",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Luo Liguo & family",195,9600,67,"China","Manufacturing",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Marijke Mars",195,9600,58,"United States","Food & Beverage",0,21427.7,88.2,9.6,36.6,328.239523,1,2,1,"Divorced",1,0,0,0
+"Pamela Mars",195,9600,62,"United States","Food & Beverage",0,21427.7,88.2,9.6,36.6,328.239523,1,2,1,"Married",1,0,0,0
+"Valerie Mars",195,9600,64,"United States","Food & Beverage",0,21427.7,88.2,9.6,36.6,328.239523,1,2,1,"Married",1,1,0,0
+"Victoria Mars",195,9600,66,"United States","Food & Beverage",0,21427.7,88.2,9.6,36.6,328.239523,1,2,1,"Married",1,1,0,0
+"Vincent Bolloré & family",202,9500,71,"France","Finance & Investments",0,2715.518274227,65.6,24.2,60.7,67.059887,0,6,1,"Married",0,0,0,0
+"Jim Pattison",202,9500,94,"Canada","Diversified",1,1736.42562952,68.9,12.8,24.5,36.991981,0,6,1,"Married",0,0,0,0
+"Ernesto Bertarelli",204,9400,57,"Switzerland","Healthcare",0,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Divorced",1,1,0,0
+"Wang Xing",204,9400,44,"China","Technology",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Unknown",0,0,0,0
+"Brian Chesky",206,9300,41,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,8,1,"Single",1,0,0,0
+"James Dyson",206,9300,75,"United Kingdom","Manufacturing",1,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Married",0,0,0,0
+"Roman Abramovich & family",208,9200,56,"Russia","Diversified",1,1699.876578871,81.9,11.4,46.2,144.373535,0,6,1,"Married",0,1,0,0
+"Antonia Ax:son Johnson & family",208,9200,79,"Sweden","Diversified",0,530.832908738,67,27.9,49.1,10.285453,1,6,1,"Married",0,1,0,0
+"Daniel Kretinsky",208,9200,47,"Czech Republic","Energy",1,246.489245495,64.1,14.9,46.1,10.669709,0,6,1,"In Relationship",0,0,0,0
+"John Malone",208,9200,82,"United States","Media & Entertainment",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",1,1,1,0
+"Azim Premji",208,9200,77,"India","Technology",0,2611,28.1,11.2,49.7,1366.417754,0,6,1,"Married",1,0,0,0
+"Charles Schwab",208,9200,85,"United States","Finance & Investments",1,21427.7,88.2,9.6,36.6,328.239523,0,8,3,"Married",1,1,0,0
+"Eric Smidt",208,9200,63,"United States","Fashion & Retail",1,21427.7,88.2,9.6,36.6,328.239523,0,10,1,"Married",0,0,0,0
+"David Cheriton",215,9000,72,"United States","Technology",1,21427.7,88.2,9.6,36.6,328.239523,0,6,1,"Divorced",1,1,1,0
+"Ivan Glasenberg",215,9000,66,"Switzerland","Metals & Mining",1,703.08243536,59.6,10.1,28.8,8.574832,0,6,1,"Married",1,1,0,0
+"Alexander Otto",215,9000,55,"Germany","Real Estate",0,3845.630030824,70.2,11.5,48.8,83.132799,0,6,1,"Married",1,1,0,0
+"Anthony von Mandl",215,9000,73,"Canada","Food & Beverage",1,1736.42562952,68.9,12.8,24.5,36.991981,0,8,1,"Unknown",1,0,0,0
+"Wang Liping & family",215,9000,57,"China","Manufacturing",1,19910,50.6,9.4,59.2,1397.715,0,6,1,"Married",0,0,0,0
+"Finn Rausing",220,8900,68,"United Kingdom","Food & Beverage",0,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Unknown",0,0,0,0
+"Jorn Rausing",220,8900,63,"United Kingdom","Food & Beverage",0,2827.113184696,60,25.5,30.6,66.834405,0,6,1,"Unknown",0,0,0,0
