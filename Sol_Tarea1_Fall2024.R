@@ -276,7 +276,11 @@ phil <- phil %>% mutate(fem_other = female * Others,
                         fem_manuf = female * Manufacturing,
                         fem_food = female * Food_Beverage)
 
+<<<<<<< HEAD
 reg_female_industry <- lm_robust(log(finalWorth) ~ age + selfMade + log(gdp_country) + total_tax_rate_country + 
+=======
+reg_female_industry <- lm(log(finalWorth) ~ age + selfMade + log(gdp_country) + total_tax_rate_country + 
+>>>>>>> 132e4435c53d205bbdf2e2b7241ccd83f4e75915
                             hi_phil + Bachelor + Master + Doctorate +  
                             in_relationship_group + previously_married + unknown_status +
                             Technology + Finance + Fashion_Retail + Manufacturing + Food_Beverage + 
